@@ -28,7 +28,7 @@ Solo necesitas **Python 3**. No se requieren librerías externas.
 1.  **Clona o descarga el script:**
 
     ```
-    git clone [[URL_DEL_REPOSITORIO]](https://github.com/arthusu/xxe_injector_xlsx.git)
+    git clone https://github.com/arthusu/xxe_injector_xlsx.git
     cd xxe_injector_xlsx
 
     ```
